@@ -1,4 +1,4 @@
-
+﻿
 ## TRENDYOL API V1
 
 > Bu api ' yı kullanabilmek için projenize dahil etmeniz gerekir.
@@ -27,6 +27,10 @@
 ### Tekrar Giriş Yapmak ( Bellekten okuma yapmaz )
 
       $login = $trendyol->reLogin($username,$password,$proxy,$proxyPassword);
+
+
+### Hesap Oluştur
+    Geliştiriliyor..
 
 ### Kullanıcı İşlemleri
 Giriş yapıldıktan sonra verileri okuyabiliriz.
