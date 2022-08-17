@@ -32,6 +32,10 @@
 ### Hesap Oluştur
     Geliştiriliyor..
 
+### Promosyon Kodu Kullan
+    Geliştiriliyor..
+
+
 ### Kullanıcı İşlemleri
 Giriş yapıldıktan sonra verileri okuyabiliriz.
 #### Kullanıcı Mail Getir
