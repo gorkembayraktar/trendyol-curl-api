@@ -1,5 +1,5 @@
 ### Hesap Oluşturmak
-Hesap oluşturmak için mail servisine ihtiyacınız vardır. host,mail,password ve port bilgisini tanımlamalısınız. IMAP fonksiyonu kullanılmaktadır. Local sunucunuzda default enable tanımlanır. Erişimi açtığınızda bu methodu kullanabilirsiniz.
+Hesap oluşturmak için mail servisine ihtiyacınız vardır. host,mail,password ve port bilgisini tanımlamalısınız. IMAP fonksiyonu kullanılmaktadır. Local sunucunuzda default disabled tanımlanır. Erişimi açtığınızda bu methodu kullanabilirsiniz.
 
        
         $trendyol = new Trendyol();
