@@ -30,7 +30,9 @@
 
 
 ### Hesap Oluştur
-    Geliştiriliyor..
+    TrendyolMailReader sınıfı geliştirildi. 
+    Örnek kullanım için dökümana gidiniz.
+    [Hesap oluştur döküman](/docs/create_an_account.md)
 
 ### Promosyon Kodu Kullan
     Geliştiriliyor..

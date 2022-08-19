@@ -14,6 +14,9 @@ class TrendyolMessages{
     protected function getMessages(){
         return $this->messages;
     }
+    protected function lastMessage(){
+        return end($this->messages);
+    }
 
     private function _log($message){
 

@@ -6,7 +6,13 @@ class TrendyolAPI{
 
     public static $culture = 'tr-TR';
 
-    public static  $login_uri = "https://auth.trendyol.com/login";
+      //@post
+      public static  $login_uri = "https://auth.trendyol.com/login";
+
+    //@post
+    public static $register = "https://auth.trendyol.com/v2/signup";
+
+    public static $registerConfirmMail = "email.trendyol.com";
 
 
     public static $account_orders = "https://public-sdc.trendyol.com/discovery-web-omsgw-service/orders?page=1&sorting=0&storefrontId=1&searchText=";

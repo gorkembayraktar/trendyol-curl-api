@@ -44,6 +44,13 @@ class HttpResponse{
         return $this->join($cookobjs);
 
     }
+    public function json($returnArray = false){
+      try{
+         return json_decode($this->body(),$returnArray);
+      }catch(Exception $x){
+        return null;
+      }
+    }
     private function join($f){
         $str = "";
         foreach($f as $key => $val){
